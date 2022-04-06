@@ -1,0 +1,19 @@
+header {
+    background: #BBBBBB;
+}
+
+/*Todos os itens da lista(li) que estão dentro da tag de navegação*/
+nav li {
+    display: inline;
+    margin: 0 0 0 15px; /*1º-topo, 2º-direita, 3º-baixo, 4º-esquerda*/
+}
+
+/*Todos os links da nossa navegação estejam em maíusculo*/
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+    
+}
