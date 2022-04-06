@@ -1,3 +1,5 @@
+/*border-radius-top-left -> arredondar borda canto superior esquerdo*/
+
 header {
     background: #BBBBBB;
     padding: 20px 0; /*20px pra cima e pra baixo e 0 pra esquerda e pra direita*/
@@ -49,6 +51,8 @@ nav a {
     border-color: #000000;
     border-width: 2px;
     border-style: solid;
+    border-radius: 10px;
+    /*border-radius: 10px 20px 30px 40px;*/
     /*config 3 em 1 -> border: 2px solid #000000;*/
     /*fim conf borda*/
 }
