@@ -6,7 +6,7 @@ header {
 .caixa {
     position: relative;
     width: 940px;
-    margin: 0  /*pra cima e pra baixo seja 0 e pra direita e pra esquerda se definam automaticamente */
+    margin: 0  auto;/*pra cima e pra baixo seja 0 e pra direita e pra esquerda se definam automaticamente */
 }
 
 nav {
