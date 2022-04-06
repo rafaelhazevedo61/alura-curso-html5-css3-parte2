@@ -2,10 +2,17 @@ header {
     background: #BBBBBB;
 }
 
+nav {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
 /*Todos os itens da lista(li) que estão dentro da tag de navegação*/
 nav li {
     display: inline;
     margin: 0 0 0 15px; /*1º-topo, 2º-direita, 3º-baixo, 4º-esquerda*/
+    
 }
 
 /*Todos os links da nossa navegação estejam em maíusculo*/
