@@ -88,3 +88,10 @@ nav a:hover {
     font-weight: bold;
     margin-top: 10px;
 }
+
+footer {
+    text-align: center;
+    background-color: #CCCCCC;
+    /*background: url("bg.jpeg");*/
+    padding: 40px 0;
+}
