@@ -1,11 +1,18 @@
 header {
     background: #BBBBBB;
+    padding: 20px 0; /*20px pra cima e pra baixo e 0 pra esquerda e pra direita*/
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0  /*pra cima e pra baixo seja 0 e pra direita e pra esquerda se definam automaticamente */
 }
 
 nav {
     position: absolute;
-    top: 0;
-    right: 0;
+    top: 110px;
+    right: 0px;
 }
 
 /*Todos os itens da lista(li) que estão dentro da tag de navegação*/
